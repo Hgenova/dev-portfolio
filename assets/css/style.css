@@ -1,6 +1,6 @@
 
 body {
-	background-image: url(../images/bg.jpeg);
+	background-image: url(../images/pattern.png);
 	background-repeat: no-repeat;
 	background-size:cover;
 	color: #fff;
@@ -10,14 +10,15 @@ h1 {
 	font-size: 50px;
 	margin-bottom; 0;
 	background-color: #333;
-	text-transform: uppercase;
+	text-transform: none;
 	letter-spacing: 3px;
 
 }
 h2 {
-	text-transform: uppercase;
+	text-transform: none;
+	background-color: #222;
 	letter-spacing: 5px;
-	color: yellow;
+	color: white;
 
 }
 #me {
@@ -26,7 +27,7 @@ h2 {
 	border-radius: 50%;
 	border-style: solid;
 	border-width: 5px;
-	border-color: white;
+	border-color: pink;
 	margin-top: 50px;
 
 }
